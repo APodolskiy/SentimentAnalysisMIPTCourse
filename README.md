@@ -18,4 +18,4 @@
 
 1. Анализ тональности отзывов на фильмы. Отзывы получены из архива nltk. 
 2. Анализ тональности отзывов на сммартфоны, сотовые телефоны. Отзывы получены путем парсинга сайтов, на которых размещаются
-отзывы на товары. Демонстрация работы: https://github.com/APodolskiy/SentimentAnalysisMIPTCourse/tree/master/MovieReview
+отзывы на товары. Демонстрация работы: https://github.com/APodolskiy/SentimentAnalysisMIPTCourse/tree/master/PhoneReview_final
