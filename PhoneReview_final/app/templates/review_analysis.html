@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container">
+<h1>Анализатор рецензий на фильмы</h1>
+
+<form action="" method=post name="mra">
+    <dl>
+        <dt>Введите/вставьте пример отзыва на телефон: <br>
+        <dd><textarea name=text rows=15 cols=80>{{ text }}</textarea>
+        <!--<dd><input type=submit value="Оценить">-->
+        <dd> <button type=submit class="btn btn-primary" name="submit" value="estimate">Оценить</button>
+        <button type=submit class="btn btn-danger" name="submit" value="clear">Очистить</button>
+    </dl>
+</form>
+
+<br>Предсказание настроения отзыва:<br>
+{{ prediction_message }}
+</div>
+
+{% endblock %}

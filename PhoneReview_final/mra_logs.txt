@@ -1,0 +1,678 @@
+<response>
+Bad Movie!
+ prediction error
+</response>
+<response>
+good movie
+ prediction error
+</response>
+<response>
+good movie
+probably negative
+</response>
+<response>
+very good movie
+neutral or uncertain positive
+</response>
+<response>
+I think that this movie is very good. Actors are good.
+neutral or uncertain positive
+</response>
+<response>
+I think that this movie is very good. Actors are good.
+neutral or uncertain positive
+</response>
+<response>
+good good good good
+probably positive
+</response>
+<response>
+very good film
+neutral or uncertain positive
+</response>
+<response>
+bad bad bad bad
+certain negative
+</response>
+<response>
+good good good good
+probably positive
+</response>
+<response>
+good good good good good good good
+probably positive
+</response>
+<response>
+good good good good good good good very good 
+ positive
+</response>
+<response>
+Отличный банк, чууууудесный
+probably negative
+</response>
+<response>
+Говно
+probably negative
+</response>
+<response>
+ Adorable? You be the judge.
+neutral or uncertain negative
+</response>
+<response>
+Given this movie’s punchily obvious trailers, given the fact that its theme is similar to that of a lot of subpar entertainments, given that the producing entitites of Warner Brothers and New Line have teamed up to concoct a large number of cruddy comedies over the past ten years (“Life As We Know It” and “Due Date” spring to mind/are stuck in my craw depending on how you wanna look at it), and given the fact that said studios didn’t deign to show this movie for critics until Wednesday evening, it might be reasonable to infer that “Fist Fight” is gonna be a reasonably weak and mediocre crude yuk fest.
+
+But wait. It’s not. Yes, “Fist Fight” has enough crude sexual humor to fill two such mediocrities. But it’s also a consistently intelligent (or at least bright), coherently constructed comedy that is on occasion a rather pointed critique of the American education system in the early 21st century. Don’t let that keep you away, though. It’s more often than not really funny.
+
+It’s the last day of school at Roosevelt High, located in a suburb in Georgia, and this is apparently “Prank Day.” Roosevelt’s students aren’t academic or sports overachievers, but they’ve got mischief down. This merely frustrates milquetoast English teacher Mr. Campbell, played by Charlie Day. But it infuriates hot-tempered history teacher Strickland, played by Ice Cube. A classroom contretemps leads to a faceoff for the two teachers with the irascible principal. Campbell snitches to save his job, and Strickland vows an “I’ll see you after school” revenge. Strickland’s advantage in this contest—his mysterious bearing has given rise to many intimidating backstories about the teacher—have Campbell contemplating a new kind of doom. And he’s already got a potential firing, a pregnant wife, and an insecure daughter who’s enlisted him to perform at her talent show to worry about.
+
+All these tropes are pretty familiar, but they’re also all handled in ways that are more satisfying (and logical) than I’ve ever seen in such product. The movie, directed by Richie Keen from a script by Van Robichaux and Evan Susser (Max Greenfield has a story credit with that duo), packs an unusual amount of nuance into what’s on the face of it a pretty unsubtle premise. Despite being what seems to be a near-maniac, Strickland is the character who occupies the moral high ground in this conflict. Day’s Kaufman comes to realize, via Strickland’s admittedly unusual example, that the go-along-to-get-along attitude he’s adopted does a disservice not only to himself but to the students he’s supposed to be serving. The fight eventually turns into an opportunity to shake up the system a little bit.
+
+But let’s not get carried away with the stresses on social significance here. The movie prudently packs a lot of funny bits, each one reliant on the particular skill set of a particular performer. Tracy Morgan is in full irresistible Morgan mode as a not-all-there athletics coach. Christina Hendricks is perfect as a dryly unhinged French teacher. Dean Norris, as the principal, is being followed by a mariachi band all day on prank day, and his level of irritability is commensurate with that. Kumail Nanjiani does very clever work as a generally disinterested school security guard. Austin Zajur makes his angel face go smarmy for his turn as a manipulative student. And Jillian Bell nearly steals the movie as an inappropriately horny guidance councilor, making the most of the fact that she has the lion’s share of “did she really say that?” lines. Their performances help the movie fly by, as does the work by Day and Cube, who are two of our finest comic actors as far as I’m concerned. I am also grateful for the fact that “Fist Fight” feels like a movie—a narrative with a beginning, a middle, and an end that all have something to do with each other, as opposed to pictures like “Pitch Perfect” and “Neighbors” and their sequels, which to me all play as a collection of bits slapped together by an Avid editing machine set to autopilot, if Avid editing machines have such a setting. Just as Mr. Campbell stands up for pedagogy, “Fist Fight” stands up, at least a little bit, for storytelling. 
+ negative
+</response>
+<response>
+Given this movie’s punchily obvious trailers, given the fact that its theme is similar to that of a lot of subpar entertainments, given that the producing entitites of Warner Brothers and New Line have teamed up to concoct a large number of cruddy comedies over the past ten years (“Life As We Know It” and “Due Date” spring to mind/are stuck in my craw depending on how you wanna look at it), and given the fact that said studios didn’t deign to show this movie for critics until Wednesday evening, it might be reasonable to infer that “Fist Fight” is gonna be a reasonably weak and mediocre crude yuk fest.
+
+But wait. It’s not. Yes, “Fist Fight” has enough crude sexual humor to fill two such mediocrities. But it’s also a consistently intelligent (or at least bright), coherently constructed comedy that is on occasion a rather pointed critique of the American education system in the early 21st century. Don’t let that keep you away, though. It’s more often than not really funny.
+
+It’s the last day of school at Roosevelt High, located in a suburb in Georgia, and this is apparently “Prank Day.” Roosevelt’s students aren’t academic or sports overachievers, but they’ve got mischief down. This merely frustrates milquetoast English teacher Mr. Campbell, played by Charlie Day. But it infuriates hot-tempered history teacher Strickland, played by Ice Cube. A classroom contretemps leads to a faceoff for the two teachers with the irascible principal. Campbell snitches to save his job, and Strickland vows an “I’ll see you after school” revenge. Strickland’s advantage in this contest—his mysterious bearing has given rise to many intimidating backstories about the teacher—have Campbell contemplating a new kind of doom. And he’s already got a potential firing, a pregnant wife, and an insecure daughter who’s enlisted him to perform at her talent show to worry about.
+
+All these tropes are pretty familiar, but they’re also all handled in ways that are more satisfying (and logical) than I’ve ever seen in such product. The movie, directed by Richie Keen from a script by Van Robichaux and Evan Susser (Max Greenfield has a story credit with that duo), packs an unusual amount of nuance into what’s on the face of it a pretty unsubtle premise. Despite being what seems to be a near-maniac, Strickland is the character who occupies the moral high ground in this conflict. Day’s Kaufman comes to realize, via Strickland’s admittedly unusual example, that the go-along-to-get-along attitude he’s adopted does a disservice not only to himself but to the students he’s supposed to be serving. The fight eventually turns into an opportunity to shake up the system a little bit.
+
+But let’s not get carried away with the stresses on social significance here. The movie prudently packs a lot of funny bits, each one reliant on the particular skill set of a particular performer. Tracy Morgan is in full irresistible Morgan mode as a not-all-there athletics coach. Christina Hendricks is perfect as a dryly unhinged French teacher. Dean Norris, as the principal, is being followed by a mariachi band all day on prank day, and his level of irritability is commensurate with that. Kumail Nanjiani does very clever work as a generally disinterested school security guard. Austin Zajur makes his angel face go smarmy for his turn as a manipulative student. And Jillian Bell nearly steals the movie as an inappropriately horny guidance councilor, making the most of the fact that she has the lion’s share of “did she really say that?” lines. Their performances help the movie fly by, as does the work by Day and Cube, who are two of our finest comic actors as far as I’m concerned. I am also grateful for the fact that “Fist Fight” feels like a movie—a narrative with a beginning, a middle, and an end that all have something to do with each other, as opposed to pictures like “Pitch Perfect” and “Neighbors” and their sequels, which to me all play as a collection of bits slapped together by an Avid editing machine set to autopilot, if Avid editing machines have such a setting. Just as Mr. Campbell stands up for pedagogy, “Fist Fight” stands up, at least a little bit, for storytelling. 
+ negative
+</response>
+<response>
+Given this movie’s punchily obvious trailers, given the fact that its theme is similar to that of a lot of subpar entertainments, given that the producing entitites of Warner Brothers and New Line have teamed up to concoct a large number of cruddy comedies over the past ten years (“Life As We Know It” and “Due Date” spring to mind/are stuck in my craw depending on how you wanna look at it), and given the fact that said studios didn’t deign to show this movie for critics until Wednesday evening, it might be reasonable to infer that “Fist Fight” is gonna be a reasonably weak and mediocre crude yuk fest.
+
+But wait. It’s not. Yes, “Fist Fight” has enough crude sexual humor to fill two such mediocrities. But it’s also a consistently intelligent (or at least bright), coherently constructed comedy that is on occasion a rather pointed critique of the American education system in the early 21st century. Don’t let that keep you away, though. It’s more often than not really funny.
+
+It’s the last day of school at Roosevelt High, located in a suburb in Georgia, and this is apparently “Prank Day.” Roosevelt’s students aren’t academic or sports overachievers, but they’ve got mischief down. This merely frustrates milquetoast English teacher Mr. Campbell, played by Charlie Day. But it infuriates hot-tempered history teacher Strickland, played by Ice Cube. A classroom contretemps leads to a faceoff for the two teachers with the irascible principal. Campbell snitches to save his job, and Strickland vows an “I’ll see you after school” revenge. Strickland’s advantage in this contest—his mysterious bearing has given rise to many intimidating backstories about the teacher—have Campbell contemplating a new kind of doom. And he’s already got a potential firing, a pregnant wife, and an insecure daughter who’s enlisted him to perform at her talent show to worry about.
+
+All these tropes are pretty familiar, but they’re also all handled in ways that are more satisfying (and logical) than I’ve ever seen in such product. The movie, directed by Richie Keen from a script by Van Robichaux and Evan Susser (Max Greenfield has a story credit with that duo), packs an unusual amount of nuance into what’s on the face of it a pretty unsubtle premise. Despite being what seems to be a near-maniac, Strickland is the character who occupies the moral high ground in this conflict. Day’s Kaufman comes to realize, via Strickland’s admittedly unusual example, that the go-along-to-get-along attitude he’s adopted does a disservice not only to himself but to the students he’s supposed to be serving. The fight eventually turns into an opportunity to shake up the system a little bit.
+
+But let’s not get carried away with the stresses on social significance here. The movie prudently packs a lot of funny bits, each one reliant on the particular skill set of a particular performer. Tracy Morgan is in full irresistible Morgan mode as a not-all-there athletics coach. Christina Hendricks is perfect as a dryly unhinged French teacher. Dean Norris, as the principal, is being followed by a mariachi band all day on prank day, and his level of irritability is commensurate with that. Kumail Nanjiani does very clever work as a generally disinterested school security guard. Austin Zajur makes his angel face go smarmy for his turn as a manipulative student. And Jillian Bell nearly steals the movie as an inappropriately horny guidance councilor, making the most of the fact that she has the lion’s share of “did she really say that?” lines. Their performances help the movie fly by, as does the work by Day and Cube, who are two of our finest comic actors as far as I’m concerned. I am also grateful for the fact that “Fist Fight” feels like a movie—a narrative with a beginning, a middle, and an end that all have something to do with each other, as opposed to pictures like “Pitch Perfect” and “Neighbors” and their sequels, which to me all play as a collection of bits slapped together by an Avid editing machine set to autopilot, if Avid editing machines have such a setting. Just as Mr. Campbell stands up for pedagogy, “Fist Fight” stands up, at least a little bit, for storytelling. 
+ negative
+</response>
+<response>
+Given this movie’s punchily obvious trailers, given the fact that its theme is similar to that of a lot of subpar entertainments, given that the producing entitites of Warner Brothers and New Line have teamed up to concoct a large number of cruddy comedies over the past ten years (“Life As We Know It” and “Due Date” spring to mind/are stuck in my craw depending on how you wanna look at it), and given the fact that said studios didn’t deign to show this movie for critics until Wednesday evening, it might be reasonable to infer that “Fist Fight” is gonna be a reasonably weak and mediocre crude yuk fest.
+
+But wait. It’s not. Yes, “Fist Fight” has enough crude sexual humor to fill two such mediocrities. But it’s also a consistently intelligent (or at least bright), coherently constructed comedy that is on occasion a rather pointed critique of the American education system in the early 21st century. Don’t let that keep you away, though. It’s more often than not really funny.
+
+It’s the last day of school at Roosevelt High, located in a suburb in Georgia, and this is apparently “Prank Day.” Roosevelt’s students aren’t academic or sports overachievers, but they’ve got mischief down. This merely frustrates milquetoast English teacher Mr. Campbell, played by Charlie Day. But it infuriates hot-tempered history teacher Strickland, played by Ice Cube. A classroom contretemps leads to a faceoff for the two teachers with the irascible principal. Campbell snitches to save his job, and Strickland vows an “I’ll see you after school” revenge. Strickland’s advantage in this contest—his mysterious bearing has given rise to many intimidating backstories about the teacher—have Campbell contemplating a new kind of doom. And he’s already got a potential firing, a pregnant wife, and an insecure daughter who’s enlisted him to perform at her talent show to worry about.
+
+All these tropes are pretty familiar, but they’re also all handled in ways that are more satisfying (and logical) than I’ve ever seen in such product. The movie, directed by Richie Keen from a script by Van Robichaux and Evan Susser (Max Greenfield has a story credit with that duo), packs an unusual amount of nuance into what’s on the face of it a pretty unsubtle premise. Despite being what seems to be a near-maniac, Strickland is the character who occupies the moral high ground in this conflict. Day’s Kaufman comes to realize, via Strickland’s admittedly unusual example, that the go-along-to-get-along attitude he’s adopted does a disservice not only to himself but to the students he’s supposed to be serving. The fight eventually turns into an opportunity to shake up the system a little bit.
+
+But let’s not get carried away with the stresses on social significance here. The movie prudently packs a lot of funny bits, each one reliant on the particular skill set of a particular performer. Tracy Morgan is in full irresistible Morgan mode as a not-all-there athletics coach. Christina Hendricks is perfect as a dryly unhinged French teacher. Dean Norris, as the principal, is being followed by a mariachi band all day on prank day, and his level of irritability is commensurate with that. Kumail Nanjiani does very clever work as a generally disinterested school security guard. Austin Zajur makes his angel face go smarmy for his turn as a manipulative student. And Jillian Bell nearly steals the movie as an inappropriately horny guidance councilor, making the most of the fact that she has the lion’s share of “did she really say that?” lines. Their performances help the movie fly by, as does the work by Day and Cube, who are two of our finest comic actors as far as I’m concerned. I am also grateful for the fact that “Fist Fight” feels like a movie—a narrative with a beginning, a middle, and an end that all have something to do with each other, as opposed to pictures like “Pitch Perfect” and “Neighbors” and their sequels, which to me all play as a collection of bits slapped together by an Avid editing machine set to autopilot, if Avid editing machines have such a setting. Just as Mr. Campbell stands up for pedagogy, “Fist Fight” stands up, at least a little bit, for storytelling. 
+ negative
+</response>
+<response>
+Very bad film. 
+<response>
+very bad film
+ negative
+</response>
+<response>
+very good film
+neutral or uncertain positive
+</response>
+<response>
+very good film
+neutral or uncertain positive
+</response>
+<response>
+I keep forgetting the title of “A Cure for Wellness” and calling it “The Color of Despair.” It’s an accurate mistake.
+
+As directed by Gore Verbinski ("Pirates of the Caribbean: The Curse of the Black Pearl," "The Lone Ranger"), this film about a New York financial wiz (Dane DeHaan) getting trapped in a creepy Swiss clinic wants to be sickly-dreamy horror epic. It’s a black-and-white movie done in color. The stark photography by Bojan Bozelli creates pools of blackness and acres of negative space. Jenny Beavan’s retro-gothic costuming and Eve Stewart’s production design favor ash, bone, eggshell, curdled cream, and shades of green ranging from bile to moss. If you could nick a David Fincher film’s throat, hang it upside down, and bleed it for two days, it would look like this movie. As a fetish object, it’s impressive.
+
+But as a fully satisfying feature-length drama, it’s a bust. And it’s iffy as a visionary spectacle, too, because it’s too long and over-scaled, and its control of tone and theme never matches the care that has obviously been lavished on its production. This is all a shame, because there’s much to admire in “A Cure for Wellness.”
+
+DeHaan has just the right look to play the main character, Lockhart, a corrupt young East Coast WASP who travels to Switzerland to find a missing company executive but ends up trapped at a “wellness clinic” run by a German-accented doctor named Heinrich Volmer (Jason Issacs). DeHaan looks like he could be Dylan Baker’s long lost son, all milky angularity and cold stares. He has that look that casting directors go for when they’re hiring prep school jerks or Nazi youth. The actor’s straightforward performance, by turns entitled, baffled, terrified and ashamed, makes Lockhart a punching-bag hero, the kind who exists mainly to suffer horribly before achieving an enlightenment that looks a lot like comeuppance.
+
+Lockhart is insufferable at first because he’s supposed to be. There’s a sense in which he deserves the miseries inflicted upon him because he’s a snotty capitalist swine who would otherwise grow up to be another Ebenezer Scrooge, and because he’s representing a system that produces Scrooges by the millions. Verbinski and screenwriter Justin Haythe (“Revolutionary Road,” “The Lone Ranger”) seem at times to be making a statement about the vampire-like hold that the cultural memory of Europe still has over many rich and powerful Americans. Lockhart’s predecessor went to the clinic “to take in the waters”—which, as another character notes, is a very nineteenth century thing to do—and the all-white denizens of the place seem awed by the very existence of Volmer, a handsome gadfly who has the chiseled looks of an old movie Gestapo officer but carries himself like an ambassador of reason. The clinic grounds are a replica of an identical place that burned down decades ago on this very spot—there’s a backstory involving taboo hideousness—and there are recurring situations that pivot on insularity, hatred of outsiders, and the purity of bloodlines. (Mia Goth, who plays the doctor’s daughter, is the ultimate expression of the film’s anemic vision: she looks haunted and starved yet somehow also glamorous.)
+
+This is a fine starting place for a social satire and also a fine thematic flavor for a compact, dreamy horror movie. There are real ideas here, good ideas even, but they remain tantalizing but insufficiently shaped.
+
+It’s only during the last half-hour—a succession of over-the-top set-pieces that I loved, and that many colleagues found trashy and excessive—that “A Cure for Wellness” attains the level of bug-nuts wildness that it possibly needed all along. Verbinski isn’t bad at psychological and atmospheric horror, but he’s often at his most original when he’s letting it all hang out in sequences of clockwork suspense and ridiculous action, which is why the slapstick sequences in the “Pirates of the Caribbean” movies, the chases in “Rango” and the last 45 minutes of “The Lone Ranger” represent Verbinski at his most Verbinskian. It’s in the maybe narratively-unnecessary final half-hour that “A Cure for Wellness” finally starts drawing the kinds of connections (through sheer excess) that give it a distinctive personality, such as a cut from a decadent, repulsive character whirling in circles after sustaining an injury to a group of clueless rich folk waltzing in a grand ballroom.
+
+And the two-and-a-half hour running time is too much even by standards of too-muchness. It’s ironic and unfortunate that the movie models so much of its look on German Expressionist silent movies and 1930s Universal horror films, because those tended to be short and lean. Very long horror movies often reach a point of diminishing returns no matter how skillfully the filmmakers sustain a mood—“The Shining” is a rare exception, though even that one has detractors—because they give you time to think about the concept and fixate on plot holes, judgment errors and other imperfections.
+
+Verbinski is no Stanley Kubrick, although there are moments when he comes close. There are sequences involving eels that make eels seem even creepier than they did already, and a dentistry-as-torture scene that makes the one in “Marathon Man” look like a routine cleaning. I could easily imagine a version of “A Cure for Wellness” that’s all suggestion and understatement, and one that’s essentially the madcap finale played out of the length of a feature, climbing to nosebleed heights of bad taste and unfurling a freak flag at the summit. Either would have been preferable to what ended up onscreen, a rag-and-bone shop of notions.
+
+What’s most conspicuously absent here is Kubrick’s lordly, even naughty sense of humor. “A Cure for Wellness” aims for black comedy often, but rarely manages anything more sophisticated than the sick joke comic rhythm of, “What’s the worst thing that could happen to this character?” followed by, “Here it comes.” Lockhart’s suffering grows dull through repetition. He keeps brushing up against the same realizations, onto be lied to or misdirected and find himself back where he started. Too much of this sort of thing and even patient viewers throw their hands up and moan, “Oh, come on.”
+certain negative
+</response>
+<response>
+Have you ever walked out of a film so struck by awe and wonder your skin is abuzz? Has a film ever left you so joyful and drunk on adrenaline that it made you more hopeful about the world? Has a lead performance in an action film ever had such balletic grace it made you marvel at the possibilities of the human body itself? This is exactly how I felt watching “John Wick: Chapter Two,” the sequel to the surprising 2014 action hit.
+
+“John Wick: Chapter Two” is a more audacious film, bolder and more violent than its predecessor. It’s also surprisingly hilarious, wringing humor from physical pratfalls and dry wit in unexpected moments. In many ways, it’s the platonic ideal of an action film: operatic yet colored with fine-tuned details, blisteringly visceral yet tinged with pathos. For all its great craft, the movie is ultimately a showcase for Keanu Reeves, who returns as the titular assassin, proving his greatness as an actor and action star. Yes, that’s right, I said greatness. No qualifiers necessary. “John Wick: Chapter Two” is truly wondrous, but it wouldn’t work without Reeves, who has a sincere love of this genre.
+
+Wick is not good at retiring. It’s easy to believe, as commented on by others in the film, that he’s addicted to the vengeance he dishes out with such panache. After all, what else does he have to live for? The sequel picks up shortly after the end of the first film; Wick is still reeling from the death of his wife, Helen (Bridget Moynahan), failing to adjust to a new life even with his adorable, unnamed pitbull steadfastly by his side. (For those wondering, the dog remains safe.) He has little time to relax when he finds Santino D’Antonio (Riccardo Scamarcio) on his doorstep, asking him to make good on the blood oath he made years prior that allowed him to retire from his deadly profession. At first, Wick balks. One devastating house explosion later, he sees no other choice. But accepting Santino’s offer does not bring Wick the peace he desires so intensely. Soon, he finds himself facing threats from all sides, including Santino’s mute enforcer Ares (Ruby Rose) and Cassian (Common), a bodyguard of the woman Wick is forced to kill.
+
+“John Wick: Chapter Two” is never as singularly focused as its stellar opening, which is pretty much the best Batman sequence that never was. Wick has already avenged his dog and now wants to recover the car stolen in the previous film. This gives us a fun Peter Stormare cameo as Abram Tarasov, the brother of the Russian gangster Wick killed the last time around. The opening juxtaposes Wick fluidly moving in and out of shadow killing all manner of men who stand in his path. All the while, Abram listens to the ricocheting bullets and belabored screams of his henchmen growing almost cartoonishly overwrought with dread. The scene works by leaning into Wick’s mythic nature even more heavily than the first film and establishes the sequel’s excellent comedic stylings.
+
+After the opening, the film wastes no time plunging us deeper into the mythology of Wick’s labyrinthine world of assassins, blood oaths and arcane rules. The budding franchise has some of the best world-building currently in film, besting comic properties and reboots that have decades of material from which to draw. There are many delectable details introduced like an old-fashioned steno pool of tattooed darlings that handle the release of hits and other nasty work needing to be done. Some of the most fun moments are just watching Wick prepare. He’s a man of extremely refined taste, whether he’s getting a new suit tailored or conversing with The Sommelier (Peter Serafinowicz) about weaponry with the metaphors of fine dining. Cinema was created so Keanu Reeves could wear a fine black suit and slice through people with the same grace as Fred Astaire. But in expanding Wick’s world the film often lacks the sharp focus that made the original so entrancing. But even though it isn’t a perfect sequel, the imperfections are charming, lending the story the ability to venture down fun avenues.
+
+“John Wick: Chapter Two” is a character actor’s paradise. It’s so obvious that returning cast members and new faces are having fun that you can’t help but smile: Ian McShane returns to make a meal out of every scene he’s in as Winston, the owner of New York City’s Continental hotel; Lance Reddick and John Leguizamo are also a pleasure, giving completely different energy to the film; Ruby Rose might just have a great career soon as an action star. With not a single line of dialogue, she has a commanding presence, proving me wrong about her skills demonstrated in a previous season of “Orange is the New Black.” Common proves to also be a great foil for Reeves, nailing the silent but deadly assassin mode with panache. Franco Nero’s brief appearance as the manager of the Continental hotel in Rome is especially great. Come on. It’s Franco Nero talking to John Wick. What else could you ask for?
+
+But it’s Laurence Fishburne as the Bowery King that may just be my favorite addition to this fascinating world. “The Matrix” co-stars understandably have great rapport. They riff off each other in the way only actors with deeply shared history can. Fishburne’s presence is commanding, with a tinge of eccentricity. His booming laughter happens to be one of the most powerful aspects of the film’s impressive arsenal. At one point, his laugh acts as a transition between scenes going longer than expected in response to Wick’s questionable request. He only appears briefly but he makes quite an impact. 
+
+Of course, the reason to truly cherish “John Wick: Chapter Two” is the action. Director Chad Stahelski and cinematographer Dan Laustsen make every frame a sumptuous visual feast. They take advantage of the outsized world they’ve created, forming a color palette unique to the action film landscape that gives “John Wick: Chapter Two” a painterly quality. They also know how good-looking and physically expressive their leading man is. Often Reeves is the only thing on-screen, his face and body cast in shades of turquoise, jade, and neon pink. 
+
+There is an artistry and detail to even minor scenes of characters trading barbs that express the sheer mythic and grand nature of the story. The sound design highlighting the crunch of bones, splatter of blood, and the various repercussions of these increasingly intense battles is also quite artful. Fight scenes are never over-edited, opting for continuous wide shots, making it evident how much Reeves trained. The violence is never one-note, running the gamut from darkly humorous to oddly poetic. And it is always very, very bloody. This film is far more brutal than the first. Assassins are sliced at the groin, stabbed in the thigh, and shot in all manner of body parts with the camera never flinching, forcing us to bear witness. Bonus: we get to see Wick’s pencil trick. It’s even more gruesome than I imagined.
+
+But the action isn’t just intense and gorgeously crafted. In “John Wick: Chapter Two” physicality is identity. Screenwriter Derek Kolstad smartly doesn’t over-explain the history between characters—the way they fight speaks for them. When Ares gets her showdown with Wick, she’s scrappy and unhinged, like a starved lioness released onto an unsuspecting public. Cassian is more openly brutal and forceful. He’s more simplistic than Wick in his fighting choices but nearly as deadly. Their fight scenes often begin with long pauses and intense stares before giving way to outright mayhem. Then, of course, there is Reeves. No action star quite understands how physicality can communicate story like he does. His dialogue may be spare. But his body tells an entire story all its own, even in subdued moments. A glare or half-hearted smile communicates more history than many actors do with a monologue. Where Ares is energetic and Cassius is brutal, Reeves makes Wick elegant in his violence.
+
+Interestingly, Wick often does a sort of flip, locking an opponent between his legs. It’s a move that is typically the domain of female action stars, reminding me of Black Widow’s signature move in films like “Captain America: Winter Soldier.” This demonstrates how Reeves uniquely blends typically feminine and masculine traits with aplomb. During the film’s most memorable fight scenes, Reeves seems like he’s creating dance crafted with punches and gun-fu. He effectively marries the cool grace of Fred Astaire with the sex appeal of Gene Kelly. No modern action star is so brutal and beautiful an equal measure.
+
+But Reeves goes beyond being a talented physical performer in action scenes. The film highlights the thematic preoccupation that snakes through his entire career: loneliness. Reeves has always been best when playing men isolated due to equal parts choice and pathology. Wick’s struggle to find peace and his place in the world is surprisingly moving. Here is a man without any home in the world—emotional or tangible. Amid the high body count and clever design, “John Wick: Chapter Two” is a moving portrait of how loneliness warps the best of us. It ends with room for a third chapter, which I am definitely hoping for, since “John Wick: Chapter Two” demonstrates what film as an art form is all about: it awes and delights, challenges and provokes. It also proves that Keanu Reeves is the greatest modern action star and film is better for his return.
+certain positive
+</response>
+<response>
+Chinese/American co-produced action-fantasy "The Great Wall" doesn't feel like a McDonald's-ified version of a Chinese film. True, when square-jawed Matt Damon fights alien monsters side-by-side with Chinese soldiers, the film sometimes feels like a spectacular big-budget action epic with a golden-age western-style hero. But the makers of "The Great Wall" succeed where many westerns fear to tread, namely by un-ironically valorizing the selfless collectivism that has become a cultural touchstone of modern Chinese cinema. "The Great Wall" has significant problems—namely with Damon and sidekick Pedro Pascal's lack of bromantic chemistry—but chief among its rewards is its ability to marry its Eastern and Western sensibilities.
+
+Damon and Pascal play William and Tovar, respectively, wandering European mercenaries who are captured by the Chinese army of the Nameless Order shortly after they slay a mysterious green monster. The monster, they are told, is a "Tei Tao," one of a horde of creatures that attacks the now-famous Great Wall of China once every 60 years. William and Tovar are initially unmoved by the Nameless Order's considerable plight; they want to make their fortunes by stealing gunpowder from their hosts, and selling it to European traders. But eventually, William and Tovar's agendas drift apart after William becomes seduced by the formal control and selfless zeal that defines the Nameless Order. 
+
+And who wouldn't be impressed? The Nameless Order marches around in colorful suits of armor that come in hues of indigo, crimson and cerulean. They launch themselves at their enemies using pulleys, bungee cords, hot-air balloons, boulder-spewing catapults, and many, many arrows. Each crowd shot in this film is remarkable, but not because director Zhang Yimou ("Hero," "House of Flying Daggers") and his assistant directors know how to direct extras. On the contrary, the impassive faces of the Nameless Order's soldiers remind us that all of these people, together, are remarkable. In that sense, the scene where William admits that he killed a Tei Tao "alone," without the aid of Tovar or his slain mercenary colleagues, is a significant reminder of the film's communal ideology: William, as an undisciplined loner, must prove that he's worth just as much as a selfless Chinese soldier. 
+
+The film's action scenes also exemplify a sense of precise, shared responsibility that one rarely sees in action-spectaculars. The army works together as a unit, just as the Tei Tao do. You can imagine how hard that philosophy might be to enforce given that it demands a big enough budget to focus on two warring armies' clashing maneuvers. But no, the film's action set pieces are not only thrillingly large-scale, but visually rapturous, despite a preponderance of computer-generated imagery. There are a handful of well-choreographed and well-directed, Damon-centric action sequences, but it's very easy to be seduced by scenes that focus on impersonal warfare. In the latter scenes, the art department flexes their collective muscles with every lionhead-shaped helmet and barbed offensive weapon. Who could remain unmoved after watching a group of individuals dangle, thrust, and throw everything they've got at a legion of deranged-looking creatures?
+
+Unfortunately, the film slows down whenever it becomes a buddy comedy starring William and Tovar. If I had to guess, I'd say that screenwriter Tony Gilroy ("Duplicity," "The Bourne Legacy") was brought on to the film to punch up Damon and Pascal's wobbly scenes of light banter. But there's no spark between the two actors. In these scenes, Damon and Pascal perform time-honored roles that you'll find in many Asian films: the Caucasian performers who look like they wandered onto the wrong set and are unsure of what acting is. Damon orates through clenched teeth, which suits his fight scenes, but makes him sound constipated. Combine that with a weird Irish-inflected accent that presumably is meant to be generically European—his character boasts about fighting in various European conflicts—and you've got a crucial black hole where your leading man should be.
+
+Thankfully, "The Great Wall" isn't really about Damon's character. In fact, it works best when he's part of a group, though he does predictably drift into a leadership role eventually. William's story is an assimilation narrative, after all, one where the hero sees the error of his past and tries to fit into a society that values utilitarian goals over individual needs. "The Great Wall" is unlike any American blockbuster you've seen, a conservative movie with action set pieces that are actually inventive and thrilling enough to be worthwhile. See it on as big a screen as you can.
+certain positive
+</response>
+<response>
+HBO’s excellent “Big Little Lies,” based on the book by Liane Moriarty, plays off how uncertainty and low self-worth can make for a toxic combination. It is filled with mysteries—a new girl in town with a mysterious past, a murder mystery in which we don’t know the victim or killer, a mystery incident in a 1st-grade class—but it is more about how these secrets work to break the already-thin ice on which these characters live than their traditional resolutions. With all seven episodes written by David E. Kelley and directed by Jean-Marc Vallee (“Wild,” “Dallas Buyers Club”), it is also a distinctly consistent vision, working more as a seven-part film than a traditional television series. It can sometimes reflect the soapier aspects of its source material, but there’s so much to like here, particularly in the talented ensemble, that you probably will be enjoying it too much to care.
+
+Madeline Martha Mackenzie (Reese Witherspoon) is one of those arguably hyperactive women who means well but has trouble minding her own business. Perhaps it’s because her home life is stressful. Her husband Ed (Adam Scott) is a nice guy, but their marriage lacks a little passion, and Ed’s convinced he’s Martha’s second-best to her first husband Nathan (James Tupper), now remarried to the younger Bonnie (Zoe Kravitz). It’s bad enough that Bonnie looks amazing, but she’s getting closer now to Madeline & Nathan’s daughter Abigail (Kathryn Newton). Madeline takes on projects to try and keep herself happy, her latest being a controversial production of the play “Avenue Q” and a woman she meets on the way to the first day of school.
+
+Said woman is Jane (Shailene Woodley), the new girl in town who pulls over and helps Madeline after she sees her trip. They form an instant friendship that’s intensified after an incident on that first day of school creates divisions in the community. Jane’s son is accused of something horrible by the daughter of a Monterey power player, Renata Klein (Laura Dern). Madeline comes to Jane’s defense, deepening the rifts in the circle of first-grader mothers.
+
+Also on Madeline/Jane’s side is the gorgeous Celeste (Nicole Kidman), the envy of everybody in town. She seems to have it all—looks, money, beautiful children, and a handsome husband (Alexander Skarsgard) who brings the passion into their relationship. Of course, she hides a secret from everyone she knows. As does Madeline. As does Jane. And so on …
+
+Did I mention somebody’s dead? “Big Little Lies” opens with a series of interrogations from supporting players in this Monterey Melodrama, all being asked questions about the key players and the roles they may have played in the death of someone on Trivia Night. We don’t know who’s dead. We don’t know who’s going to jail. But someone was brutally murdered during a high-profile charity event, and one of the brilliant aspects of Kelley’s approach is that we start to think the killer and victim could be absolutely anyone. The show seems to be suggesting that we are all a misunderstanding or moral error or two away from being killed by our neighbors.
+
+The first episode of “Big Little Lies” is a heady mix of style, beauty, and mystery. Vallee and his regular cinematographer Yves Bélanger shoot Monterey like it’s the French Riviera. They love sunsets and gorgeous architecture and expensive fashion and kitchens that cost more than your entire house. It is a series dripping with opulence; the premiere in particular is intoxicating. And yet they waste no time to highlight the insidious dissatisfaction of this world. Almost every person in this series is what I like to call a “Grass is Greener Person.” Even in these lives that would make most people jealous, they’re itching for something else, trying to find that elusive thing that will truly make them happy—always talking about moving, changing jobs, cheating, finding a new school, etc. And they’re often pinning their happiness on the success of their children—so the drama at school, even though it’s just first-grade, becomes an amplified vision of their own insecurities. Their self-worth hinges so much on how other people see them that even a drama involving their children sends them spiraling.
+
+Of course, gender roles also play a major part in “Big Little Lies,” from the controlling husband to the relatively useless one to the insecure one. These are men often in constant need of attention, as childish as the first-graders (arguably more so given how mature these kids are presented). They can also be violent and horrible. And the show sometimes feels like it’s pushing against a trivialization of domestic violence, but that’s from the source material, and something the cast here does everything they can to avoid, bringing truth to melodrama.
+
+About that cast—it’s hard to know where to begin in terms of singling people out because everyone here is so remarkably good. Belanger’s spectacular cinematography—few people have ever used California sunlight this well—is the element of the show that will be underrated, and Kelley’s gift for dialogue has rarely been this sharp, but it’s the ensemble that makes “Big Little Lies” an event. In smaller roles, Dern, Kravitz, and Scott are fantastic, but it’s the trio at the front of the show that keep it fascinating, particularly Nicole Kidman. She finds something heartbreakingly real about a woman who everyone thinks is perfect to a degree that she feels she has no one with which to share her pain. It’s one of Kidman’s best performances (and I could say the same about Witherspoon and Woodley).
+
+Moral superiority often hides personal insecurity. It’s not a new theme or even a particularly daring one, but “Big Little Lies” offers a modern take that is consistently engaging and artistically rewarding. Narratively, it could have been one or two episodes shorter than its seven-episode length (the plot doubles back and spins its wheels a few times). But this world has been so fully-realized and perfectly calibrated by the cast and crew that you’ll probably wish it was one or two episodes longer. 
+certain positive
+</response>
+<response>
+Back in the day when socially-conscious cinema also had a shot at finding a mainstream audience, some films in that category used the phrase “torn from today’s headlines” to add a little marketing sizzle. “From Nowhere,” which is about three teenage high-schoolers in the Bronx facing deportation because of their undocumented status, is clearly a movie of that ilk, although given the contemporary mode of socially conscious movies, to advertise itself as such would be unforgivably crass. Like most such pictures made in the U.S. today, this is an indie that keeps its indignation under tight wraps, a message picture that tries to convert the nonbelievers in the audience by presenting its message in the most polite way possible. Of course, the people who would most benefit from exposure to the message—that undocumented aliens in the United States are, for the most part, people like you and me, as opposed to inhuman ISIS sleeper agents—are not the kind of people who’d go to an indie message movie.
+
+To tell you the truth, I’m not someone who’d go see an indie message movie myself, not anymore. I’ve seen too many of them and I didn’t get into movies for the social consciousness in the first place. That said, “From Nowhere,” directed by Matthew Newton from a screenplay by Newton and Kate Ballen, is an entirely watchable and sometimes engaging effort that serves as a great showcase for both the new and more seasoned members of its cast. The picture opens with Julianne Nicholson, as a high school teacher named Jackie, trying to get Shakespeare across to her students. They are typically uninterested, except for Moussa (J. Mallory McCree), who hits her with some on-target observations on King Lear. Moussa is one of three students to whom Jackie, working slightly under the radar of her school superiors, has recommended to an immigration lawyer played by Denis O’Hare. The others are Raquel Castro’s Alyssa, the school’s valedictorian, from Peru, and Octavia Chavez-Richmond’s Sophie, a Dominican girl. Moussa’s family is from Guinea, and seems to have the most traumatic past. Which is a good thing, according to O’Hare’s lawyer. “Genocide, genital mutilation, and dictators” are three things immigration judges love to hear about, he advises them brusquely in an early scene. Once he discharges them back into the world, the trio has trouble enough navigating the narratives of their own chaotic lives, let alone constructing a credible narrative to bring before a court.
+
+Moussa’s conflicts with his mother result in a stand-off neither wants. His problems with his girlfriend are exacerbated by his concern for Sophie. Sophie is hiding, from everyone, a home life that included blatant sexual harassment if not outright abuse. The tension spills out into everyone’s social lives, leading to one intense confrontation with beat cops over nothing. But nothing could become everything if even one of these kids is hauled off to a precinct house, and the film is at its most effective when it’s conveying the quiet terror of such scenarios.
+
+Like so many socially-conscious movies, this one’s schematic nature, the better with which to make its points, shows its hand a little too blatantly at times. While Moussa and Sophie’s stories are well-fleshed-out, Alyssa’s is neglected for the most part, until the very end, at which point it’s used to play a “what incredible and sad irony” card. O’Hare’s lawyer, initially a bit of a cartoon, grows in both written dimensionality and portrayal, and the one-on-one scene between him and Chavez-Richmond is an undeniable highlight. “From Nowhere” is not a visionary work, and I don’t think it aims to be; but it sets a coherent agenda from the get-go and manages to make a credible and disquieting narrative out of that. 
+certain positive
+</response>
+<response>
+11-year-old Gitty (Peyton Kennedy) listens as her father (Kip Pardue) tells her that where they live—the farmlands of Wisconsin—is the best place on earth. Later, when she asks him why they never go to any of the far-flung countries she's seen on the globe in the library, a flash of unease appears in his face. He doesn't have an answer, but his expression goes deeper than that. If she chooses to leave when she's old enough, is that a rejection of his way of life? His tomboy daughter, his partner in enjoyment of jokes and riddles, will grow up, will leave him. Loss flickers on the edge of the quiet moment. These are just two small scenes in Anne Hamilton's first feature as a writer/director, and they are the thematic underpinnings of the entire story, which plays out in a landscape aching with beauty and color and strangeness, a vivid Eden about to disappear. Hamilton has created a surreal and magical atmosphere for this melodramatic family thriller, and it is the atmosphere that dominates. Hamilton's ability to sustain the fever-dream mood established from the opening shots, as well as her interest in smaller moments pierced with intimate reality, makes it hard to believe she is a first-timer. "American Fable" is ambitious, maybe too much so sometimes, but there's an intense pleasure in the boldness of the film's style, its confidence in what it is about. 
+
+Gitty lives on the family farm with her hard-working father, her pregnant mother (Marci Miller), and an older brother Martin (Gavin MacIntosh) whose "teasing" of his younger sister is more psychopathic cruelty than anything else. It's the 1980s: Reagan is on television, and the catastrophic Midwest Farm Crisis, where corporations swooped down to snatch up family farms in foreclosure, is the air the family breathes. Gitty absorbs her parents' anxiety, peeking through doorways at their explosive arguments. A mysterious woman (Zuleikha Robinson), wearing long black leather gloves and sporting a curled up-do like Betty Grable, approaches Gitty's father at the county fair and speaks to him in private. Her father seems to know this woman. Dark forces are gathering. The family unit is threatened. Gitty doesn't have many friends but that's okay, she has her chicken (named Happy), and a wide-eyed appreciation of life. She's a curious child. When her father tells her to stay away from a derelict silo on the edge of a back field, she can't help it. She sneaks out to investigate, and finds a man locked inside. Because the entire film is shot from Gitty's point of view with very few deviations, it's not apparent at first if the man in the silo is real or not. He whispers at her urgently to let him out. He tells her he will grant her whatever she wishes if she helps him. He is part troll under the bridge and part genie/fairy-godfather. His desperation is palpable. He is played by the wonderful Richard Schiff, and as this man's story is revealed, as Gitty draws closer to him during her secret visits, he cracks open the darkness at the heart of her family, the deep disturbances that threaten to tear them all apart, bring them all down.
+
+Hamilton, and cinematographer Wyatt Garfield, drench the film in weirdness, beauty, shadows and deep colors, angst-ridden camera angles, the surreal seeping into the everyday. (Hamilton cut her chops interning for Terrence Malick during "Tree of Life." She shows a similar sensitivity to nature, to different kinds of light.) Even early on, before the man in the silo, before the woman in the gloves, it's obvious that nothing is all right in this world. A routine family dinner sparks with tension, the camera peeking up from underneath the table. With the first shot in the film, showing Gitty pushing her way through ranks of towering corn, "American Fable" announces its intentions. This is a "fable," after all. A small child goes up against forces as intimidating and unified as those corn stalks stretching as far as the eye can see. Gitty's sense of dread is manifest all around her. A mysterious figure on a black horse is seen on nearby horizons, crossing the fields, circling the house. Something is coming for this family. Maybe this family brought it on themselves. Production designer Bret August Tanzer has made the farmhouse into a space terrifying and beautiful. The walls are a deep green, the furniture red, the night shines in through the windows cold and blue. This is not your everyday American heartland farmhouse. It is an emotional nightmare-scape. 
+
+Young Peyton Kennedy is a revelation. When her father tells her a bedtime story (she requests a scary one), she listens to him with engagement and humor, pressing him on in between phrases with little comments and laughter, and her behavior is so natural that it grounds those scenes—and that relationship—in the real world, as opposed to a sentimentalized version that we've all seen before. During the course of the film, Kennedy, who is in every scene, must move from innocent to experienced, from oblivion to knowledge. She gives an adult performance in its understanding of that painful coming-of-age arc. 
+
+"American Fable" displays its symbols proudly, in the way short stories sometimes do. The symbols don't have the resonance that some of Hamilton's singular images do: Gitty dangling from a rope, surrounded by the dark walls of the silo; children capturing fireflies at night in big jars; a truly spooky dream-sequence; the colors inside that farmhouse, the look on Gitty's mother's face when Gitty asks if God really loves them. These are the moments that stick, that persist once the film ends. Hamilton's images—more than the plot, more than the symbols, tell the story. (There should be a moratorium on the use of Yeats' poem "Second Coming" in film. It's one of the most powerful and prophetic poems ever written, but it's been so done to death it's become a cliche.) "American Fable" is an elegy to a way of life that has nearly vanished, a phantasmagorical imagining of what a real-world event like the farm crisis looks and—more importantly—feels like to an intelligent child. Loss pulses through the film in every frame. It's an extremely impressive debut.
+certain positive
+</response>
+<response>
+When John Steinbeck’s In Dubious Battle was published in 1936, the New York Times wrote that “You would never know that In Dubious Battle was by the same John Steinbeck if the publishers did not tell you so.” After directing such formally and narratively challenging films as his adaptation of Cormac McCarthy’s “Child of God” and William Faulkner’s “As I Lay Dying,” James Franco’s work in adapting the Steinbeck novel could provoke a nearly identical response. Given how much he typically pushes back against traditional storytelling in his directorial efforts to date, you would never know that “In Dubious Battle” was the same James Franco if the producers did not tell you so. Remarkably star-studded and even more remarkably earnest, there are elements of “In Dubious Battle” that work but enough missteps to keep it from fully coming together the way one wishes it would. However, it's such an unexpected film from Franco the Director that it could easily get one more excited about his upcoming projects, including the highly anticipated “The Masterpiece.” And it undeniably plays differently in the wake of worker strikes today for "A Day Without Immigrants" and greater divides between the working class and the President of the United States than when the film premiered at Toronto last year (which is not meant as a political statement, just a fact, and not an alternative one).
+
+“In Dubious Battle” is the story of the working class during the Depression, striking against an increasingly cruel establishment in ways that would lead to the formation of workers’ rights, including a minimum wage. It is an ensemble piece fronted by Nat Wolff’s Jim and James Franco’s Mac, two men who essentially form a union of workers after their wages are cut from $3 an hour to $1 an hour at the height of the depression. Jim is the younger, more naïve man, learning the ways to inspire his people from the more-experienced Mac. “In Dubious Battle” is about the cost of fighting for equality. It is easy to roll over and accept what one is given. It is much harder to fight for what one is owed.
+
+Franco fills his ensemble with recognizable faces, many of whom give great one-or-two-scene performances. Most notably, Vincent D’Onofrio shines as London, a reticent leader to his people, and a negotiation scene between him and Robert Duvall as Bolton, the voice of the establishment, is the highlight of the film. As a director, Franco knows to get out of the way and let his veterans do that which they do best. So, D’Onofrio, Duvall, Sam Shepard, and Ed Harris give magnetic, lived-in performances. For the record, Franco himself is very good here as well.
+
+The problems come in the younger cast, which Franco doesn’t quite seem willing to direct to a degree that their characters come off as believable. Wolff’s non-performance is a hole at the center of the film, amplified whenever he’s alone with Selena Gomez’s miscast Lisa. There’s a notable divide here between the accomplished veterans and the younger players. The former look like they have dirt under their nails and life stories to tell. The latter look like they’re playing dress up.
+
+Most of all, “In Dubious Battle” falters due to the pacing of its earnestness. It’s a film in which characters often say exactly what they’re thinking and feeling and needing at any given moment. And when a film starts with that degree of existence as a “message delivery system” instead of presenting characters it has nowhere to go but melodrama. If the passionate speeches of the final act weren’t preceded by 100 minutes of basically the same sentiments they’d have more power. “In Dubious Battle” is monotonous in its messaging, working only when it allows itself to be a character piece less tied to Having Something to Say.
+
+I never thought that James Franco would make a film that felt comparable to a John Sayles ensemble piece, but that’s what “In Dubious Battle” ultimately feels like. The difference is that Sayles is one of our best craftsmen when it comes to setting, making his location as important as his characters, and giving us worlds that feel lived-in instead of merely visited by a cast and crew. Still, the unexpected effort is appreciated. Some have claimed that In Dubious Battle was Steinbeck’s first major book (it would be followed by Of Mice and Men the next year and then The Grapes of Wrath three years later). Perhaps we’ll look back on the film version as James Franco’s first major directorial credit.
+certain positive
+</response>
+<response>
+Have you ever walked out of a film so struck by awe and wonder your skin is abuzz? Has a film ever left you so joyful and drunk on adrenaline that it made you more hopeful about the world? Has a lead performance in an action film ever had such balletic grace it made you marvel at the possibilities of the human body itself? This is exactly how I felt watching “John Wick: Chapter Two,” the sequel to the surprising 2014 action hit.
+
+“John Wick: Chapter Two” is a more audacious film, bolder and more violent than its predecessor. It’s also surprisingly hilarious, wringing humor from physical pratfalls and dry wit in unexpected moments. In many ways, it’s the platonic ideal of an action film: operatic yet colored with fine-tuned details, blisteringly visceral yet tinged with pathos. For all its great craft, the movie is ultimately a showcase for Keanu Reeves, who returns as the titular assassin, proving his greatness as an actor and action star. Yes, that’s right, I said greatness. No qualifiers necessary. “John Wick: Chapter Two” is truly wondrous, but it wouldn’t work without Reeves, who has a sincere love of this genre.
+
+Wick is not good at retiring. It’s easy to believe, as commented on by others in the film, that he’s addicted to the vengeance he dishes out with such panache. After all, what else does he have to live for? The sequel picks up shortly after the end of the first film; Wick is still reeling from the death of his wife, Helen (Bridget Moynahan), failing to adjust to a new life even with his adorable, unnamed pitbull steadfastly by his side. (For those wondering, the dog remains safe.) He has little time to relax when he finds Santino D’Antonio (Riccardo Scamarcio) on his doorstep, asking him to make good on the blood oath he made years prior that allowed him to retire from his deadly profession. At first, Wick balks. One devastating house explosion later, he sees no other choice. But accepting Santino’s offer does not bring Wick the peace he desires so intensely. Soon, he finds himself facing threats from all sides, including Santino’s mute enforcer Ares (Ruby Rose) and Cassian (Common), a bodyguard of the woman Wick is forced to kill.
+
+“John Wick: Chapter Two” is never as singularly focused as its stellar opening, which is pretty much the best Batman sequence that never was. Wick has already avenged his dog and now wants to recover the car stolen in the previous film. This gives us a fun Peter Stormare cameo as Abram Tarasov, the brother of the Russian gangster Wick killed the last time around. The opening juxtaposes Wick fluidly moving in and out of shadow killing all manner of men who stand in his path. All the while, Abram listens to the ricocheting bullets and belabored screams of his henchmen growing almost cartoonishly overwrought with dread. The scene works by leaning into Wick’s mythic nature even more heavily than the first film and establishes the sequel’s excellent comedic stylings.
+
+After the opening, the film wastes no time plunging us deeper into the mythology of Wick’s labyrinthine world of assassins, blood oaths and arcane rules. The budding franchise has some of the best world-building currently in film, besting comic properties and reboots that have decades of material from which to draw. There are many delectable details introduced like an old-fashioned steno pool of tattooed darlings that handle the release of hits and other nasty work needing to be done. Some of the most fun moments are just watching Wick prepare. He’s a man of extremely refined taste, whether he’s getting a new suit tailored or conversing with The Sommelier (Peter Serafinowicz) about weaponry with the metaphors of fine dining. Cinema was created so Keanu Reeves could wear a fine black suit and slice through people with the same grace as Fred Astaire. But in expanding Wick’s world the film often lacks the sharp focus that made the original so entrancing. But even though it isn’t a perfect sequel, the imperfections are charming, lending the story the ability to venture down fun avenues.
+
+“John Wick: Chapter Two” is a character actor’s paradise. It’s so obvious that returning cast members and new faces are having fun that you can’t help but smile: Ian McShane returns to make a meal out of every scene he’s in as Winston, the owner of New York City’s Continental hotel; Lance Reddick and John Leguizamo are also a pleasure, giving completely different energy to the film; Ruby Rose might just have a great career soon as an action star. With not a single line of dialogue, she has a commanding presence, proving me wrong about her skills demonstrated in a previous season of “Orange is the New Black.” Common proves to also be a great foil for Reeves, nailing the silent but deadly assassin mode with panache. Franco Nero’s brief appearance as the manager of the Continental hotel in Rome is especially great. Come on. It’s Franco Nero talking to John Wick. What else could you ask for?
+
+But it’s Laurence Fishburne as the Bowery King that may just be my favorite addition to this fascinating world. “The Matrix” co-stars understandably have great rapport. They riff off each other in the way only actors with deeply shared history can. Fishburne’s presence is commanding, with a tinge of eccentricity. His booming laughter happens to be one of the most powerful aspects of the film’s impressive arsenal. At one point, his laugh acts as a transition between scenes going longer than expected in response to Wick’s questionable request. He only appears briefly but he makes quite an impact. 
+
+Of course, the reason to truly cherish “John Wick: Chapter Two” is the action. Director Chad Stahelski and cinematographer Dan Laustsen make every frame a sumptuous visual feast. They take advantage of the outsized world they’ve created, forming a color palette unique to the action film landscape that gives “John Wick: Chapter Two” a painterly quality. They also know how good-looking and physically expressive their leading man is. Often Reeves is the only thing on-screen, his face and body cast in shades of turquoise, jade, and neon pink. 
+
+There is an artistry and detail to even minor scenes of characters trading barbs that express the sheer mythic and grand nature of the story. The sound design highlighting the crunch of bones, splatter of blood, and the various repercussions of these increasingly intense battles is also quite artful. Fight scenes are never over-edited, opting for continuous wide shots, making it evident how much Reeves trained. The violence is never one-note, running the gamut from darkly humorous to oddly poetic. And it is always very, very bloody. This film is far more brutal than the first. Assassins are sliced at the groin, stabbed in the thigh, and shot in all manner of body parts with the camera never flinching, forcing us to bear witness. Bonus: we get to see Wick’s pencil trick. It’s even more gruesome than I imagined.
+
+But the action isn’t just intense and gorgeously crafted. In “John Wick: Chapter Two” physicality is identity. Screenwriter Derek Kolstad smartly doesn’t over-explain the history between characters—the way they fight speaks for them. When Ares gets her showdown with Wick, she’s scrappy and unhinged, like a starved lioness released onto an unsuspecting public. Cassian is more openly brutal and forceful. He’s more simplistic than Wick in his fighting choices but nearly as deadly. Their fight scenes often begin with long pauses and intense stares before giving way to outright mayhem. Then, of course, there is Reeves. No action star quite understands how physicality can communicate story like he does. His dialogue may be spare. But his body tells an entire story all its own, even in subdued moments. A glare or half-hearted smile communicates more history than many actors do with a monologue. Where Ares is energetic and Cassius is brutal, Reeves makes Wick elegant in his violence.
+
+Interestingly, Wick often does a sort of flip, locking an opponent between his legs. It’s a move that is typically the domain of female action stars, reminding me of Black Widow’s signature move in films like “Captain America: Winter Soldier.” This demonstrates how Reeves uniquely blends typically feminine and masculine traits with aplomb. During the film’s most memorable fight scenes, Reeves seems like he’s creating dance crafted with punches and gun-fu. He effectively marries the cool grace of Fred Astaire with the sex appeal of Gene Kelly. No modern action star is so brutal and beautiful an equal measure.
+
+But Reeves goes beyond being a talented physical performer in action scenes. The film highlights the thematic preoccupation that snakes through his entire career: loneliness. Reeves has always been best when playing men isolated due to equal parts choice and pathology. Wick’s struggle to find peace and his place in the world is surprisingly moving. Here is a man without any home in the world—emotional or tangible. Amid the high body count and clever design, “John Wick: Chapter Two” is a moving portrait of how loneliness warps the best of us. It ends with room for a third chapter, which I am definitely hoping for, since “John Wick: Chapter Two” demonstrates what film as an art form is all about: it awes and delights, challenges and provokes. It also proves that Keanu Reeves is the greatest modern action star and film is better for his return.
+certain positive
+</response>
+<response>
+I keep forgetting the title of “A Cure for Wellness” and calling it “The Color of Despair.” It’s an accurate mistake.
+
+As directed by Gore Verbinski ("Pirates of the Caribbean: The Curse of the Black Pearl," "The Lone Ranger"), this film about a New York financial wiz (Dane DeHaan) getting trapped in a creepy Swiss clinic wants to be sickly-dreamy horror epic. It’s a black-and-white movie done in color. The stark photography by Bojan Bozelli creates pools of blackness and acres of negative space. Jenny Beavan’s retro-gothic costuming and Eve Stewart’s production design favor ash, bone, eggshell, curdled cream, and shades of green ranging from bile to moss. If you could nick a David Fincher film’s throat, hang it upside down, and bleed it for two days, it would look like this movie. As a fetish object, it’s impressive.
+
+But as a fully satisfying feature-length drama, it’s a bust. And it’s iffy as a visionary spectacle, too, because it’s too long and over-scaled, and its control of tone and theme never matches the care that has obviously been lavished on its production. This is all a shame, because there’s much to admire in “A Cure for Wellness.”
+
+DeHaan has just the right look to play the main character, Lockhart, a corrupt young East Coast WASP who travels to Switzerland to find a missing company executive but ends up trapped at a “wellness clinic” run by a German-accented doctor named Heinrich Volmer (Jason Issacs). DeHaan looks like he could be Dylan Baker’s long lost son, all milky angularity and cold stares. He has that look that casting directors go for when they’re hiring prep school jerks or Nazi youth. The actor’s straightforward performance, by turns entitled, baffled, terrified and ashamed, makes Lockhart a punching-bag hero, the kind who exists mainly to suffer horribly before achieving an enlightenment that looks a lot like comeuppance.
+
+Lockhart is insufferable at first because he’s supposed to be. There’s a sense in which he deserves the miseries inflicted upon him because he’s a snotty capitalist swine who would otherwise grow up to be another Ebenezer Scrooge, and because he’s representing a system that produces Scrooges by the millions. Verbinski and screenwriter Justin Haythe (“Revolutionary Road,” “The Lone Ranger”) seem at times to be making a statement about the vampire-like hold that the cultural memory of Europe still has over many rich and powerful Americans. Lockhart’s predecessor went to the clinic “to take in the waters”—which, as another character notes, is a very nineteenth century thing to do—and the all-white denizens of the place seem awed by the very existence of Volmer, a handsome gadfly who has the chiseled looks of an old movie Gestapo officer but carries himself like an ambassador of reason. The clinic grounds are a replica of an identical place that burned down decades ago on this very spot—there’s a backstory involving taboo hideousness—and there are recurring situations that pivot on insularity, hatred of outsiders, and the purity of bloodlines. (Mia Goth, who plays the doctor’s daughter, is the ultimate expression of the film’s anemic vision: she looks haunted and starved yet somehow also glamorous.)
+
+This is a fine starting place for a social satire and also a fine thematic flavor for a compact, dreamy horror movie. There are real ideas here, good ideas even, but they remain tantalizing but insufficiently shaped.
+
+It’s only during the last half-hour—a succession of over-the-top set-pieces that I loved, and that many colleagues found trashy and excessive—that “A Cure for Wellness” attains the level of bug-nuts wildness that it possibly needed all along. Verbinski isn’t bad at psychological and atmospheric horror, but he’s often at his most original when he’s letting it all hang out in sequences of clockwork suspense and ridiculous action, which is why the slapstick sequences in the “Pirates of the Caribbean” movies, the chases in “Rango” and the last 45 minutes of “The Lone Ranger” represent Verbinski at his most Verbinskian. It’s in the maybe narratively-unnecessary final half-hour that “A Cure for Wellness” finally starts drawing the kinds of connections (through sheer excess) that give it a distinctive personality, such as a cut from a decadent, repulsive character whirling in circles after sustaining an injury to a group of clueless rich folk waltzing in a grand ballroom.
+
+And the two-and-a-half hour running time is too much even by standards of too-muchness. It’s ironic and unfortunate that the movie models so much of its look on German Expressionist silent movies and 1930s Universal horror films, because those tended to be short and lean. Very long horror movies often reach a point of diminishing returns no matter how skillfully the filmmakers sustain a mood—“The Shining” is a rare exception, though even that one has detractors—because they give you time to think about the concept and fixate on plot holes, judgment errors and other imperfections.
+
+Verbinski is no Stanley Kubrick, although there are moments when he comes close. There are sequences involving eels that make eels seem even creepier than they did already, and a dentistry-as-torture scene that makes the one in “Marathon Man” look like a routine cleaning. I could easily imagine a version of “A Cure for Wellness” that’s all suggestion and understatement, and one that’s essentially the madcap finale played out of the length of a feature, climbing to nosebleed heights of bad taste and unfurling a freak flag at the summit. Either would have been preferable to what ended up onscreen, a rag-and-bone shop of notions.
+
+What’s most conspicuously absent here is Kubrick’s lordly, even naughty sense of humor. “A Cure for Wellness” aims for black comedy often, but rarely manages anything more sophisticated than the sick joke comic rhythm of, “What’s the worst thing that could happen to this character?” followed by, “Here it comes.” Lockhart’s suffering grows dull through repetition. He keeps brushing up against the same realizations, onto be lied to or misdirected and find himself back where he started. Too much of this sort of thing and even patient viewers throw their hands up and moan, “Oh, come on.”
+certain negative
+</response>
+<response>
+Whether you find “Lovesong” refreshingly coy and teasing or frustratingly disingenuous and safe in its depiction of two longtime girlfriends whose attraction tiptoes beyond the platonic will likely be in the eye of the beholder.
+
+On the plus side, the ladies who semi-lust are Riley Keough (Elvis Presley’s granddaughter and an ISA nominee for "American Honey") and Jena Malone ("Donnie Darko"), both stunningly watchable and talented actresses. This is one of those films that puts most of its trust in longing looks and knowing glances rather than idle chitchat and big confessionals to carry a story. And, for the record, that is fine with me. Thankfully, both of the leads possess intoxicating smiles and profoundly expressive blue eyes—Keough’s are a smoky marble while Malone’s are aqua-hued—that serve to fill in many of the emotional blanks that are left unsaid.
+
+Director and co-writer So Yong Kim achieves a delicate, naturalistic tone both visually (many scenic outdoor settings involving rain, bodies of water or both) and melodically (a mostly soothing heart-fluttery soundtrack) that is underlined by handheld camera close-ups. For added interest, she splits her drama into halves, each focused on reunions between Keough’s Sarah and Malone’s Mindy that take place three years apart. The entangled thematic thread that connects the two appears to be the institution of marriage as it affects their own not-fully-defined relationship.
+
+When we first meet 20-something Sarah, she is a rather listless and moody mother of Jessie, a curious and headstrong three-year-old (played by Kim’s same-named daughter with writing partner, producer and husband Bradley Rust Gray). In a remote home near Pennsylvania‘s Pocono Mountains, Sarah’s lonely solitude is briefly broken by a frustrating laptop video chat with her husband (filmmaker Cary Joji Fukunaga), who confirms that his current business trip won’t be ending any time soon. 
+
+Sarah’s dreary outlook brightens (she mentions she takes pills at one point, presumably for depression) and Jessie is delighted when free-spirited Mindy arrives from New York City bearing much needed moral support—as well as alcohol—as the trio take a road trip together. They go to a rodeo, where Mindy flirts a little too willingly with a cowboy, and later share youthful memories and details about their sex lives late into a booze-filled night. A touch lingers, a kiss is exchanged and then, just like that, it’s daylight, and we’re back in the car on the way to an amusement park. There, Kim makes the most of a Ferris wheel ride when Jessie urges her mom and Mindy to gleefully scream as they go round and round. But the fun is cut short when Mindy suddenly decides to buy a bus ticket back home.
+
+Jump ahead and we are on another road journey, this time to the outskirts of Nashville. Mindy is about to be married and Jessie (now played by the director’s older daughter, Sky) is the flower girl. And this is where a female director comes in handy. I love that Kim smartly telegraphs the current status of her main female characters by the change in their hairstyles. Whereas Mindy’s earlier bleached-out bob had a waifish allure, she is now an intense redhead. And Sarah, who has rid herself of her always-absent spouse, is calm and confident—as emblemized by her sleek locks that were previously humidity-kinked and messily pulled back.
+
+Clearly, they haven’t had much communication in the intervening years. But now it is Sarah who is steadfast and reassuring while the bride-to-be is a wreck, overwhelmed by her good-guy groom’s relatives and their friends as they gather for the weekend. She hasn’t even picked out her dress yet. Despite being all but ignored by Mindy, Sarah agrees to pitch in with flower arrangements and pick up her friend’s disagreeable estranged mother at the airport (Rosanna Arquette, who magnificently telegraphs everything you have to know about her woman of privilege by the testy way she complains about being forced to fly coach).
+
+After being introduced to Mindy’s warm and nurturing future mother-in-law as she lovingly makes her famous sweet potato casserole for a rehearsal dinner, it is possible to surmise that she is looking for a family as much she is a husband. But at her pre-ceremony bachelorette party, Mindy seems more intent on drinking, dancing and making out in public with Sarah at a bar than she is in looking forward to what her future holds. When Mindy has a last-minute panic attack the next day, she takes off into the woods with Sarah—formal wear be damned—and an air-clearing of sorts as well as an admission of mutual devotion takes place. The image of Keough’s beaming face says everything we need to know before credits roll.
+
+Some might accuse “Lovesong” of being slight while others will applaud its minimalism. But there is no disputing that Kim has wisely provided her two stars—both of whom she has worked with before—with enough breathing room to bring her movie to life. While both actresses have been lured by big-budget blockbusters in the past—Keough as breeder Capable in “Mad Max: Fury Road” and Malone as tribute Johanna Mason in “The Hunger Games” franchise—let’s hope they continue to choose to do these sorts of challenging roles in smaller efforts that provide the type of big-screen showcases they deserve.
+certain positive
+</response>
+<response>
+Watching a film, or I should say successfully watching a film, usually requires a willed suspension of disbelief. I’d say the same thing goes for making a film. In spite of technology that assists creative artists in getting more technically credible results with less work and for less money than in the past, making a film is still such an illogical process that successfully completing one requires a faith that passeth understanding.
+
+“My Name Is Emily” is in many respects an average and in several respects a kind of clichéd and frayed coming-of-age movie. The protagonist, Emily, kicks off the film by speaking to the audience, relating her quirky childhood as the only child of an eccentric academic who becomes a best-selling author and a mother who dies too soon. She repeats apercus from her dad along the lines of “If you hide from death, you hide from life” and contributes cranky questions of her own to the narration like “Why do we smile in photographs?”
+
+The best thing about Emily is that she’s played by Evanna Lynch. Lynch, who played the charmingly abstracted Luna Lovegood in some of the Harry Potter pictures, has grown into a young woman who looks like a rougher-edged Saoirse Ronan, and she brings a gritty conviction to the antisocial tendencies that Emily cultivates after her beloved dad, played by Michael Smiley, is carted off to a lunatic asylum. Now with foster parents, she immediately alienates her new schoolteacher with a biographical approach to literary criticism, disclosing to her classmates that all that talk in Wordsworth about “splendor in the grass” is about sublimated sexual transgression and guilt. This and more put stars in the eyes of her handsome, upper-crust classmate Arden (George Webster). Emily couldn’t be less interested. But then she does not receive her customary birthday card from dad, and Emily is forced to solicit her only potential friend on a mission to drive to the institution and confront the old man, and maybe even break him out of the joint. She calls on Arden at home just as he’s getting a snootful from his awful dad, and before Arden can even say to dad “Next time you hit me, you better knock me out,” you’re thinking “Road Trip!”
+
+And off they go, abetted by a kindly grandma and her vintage auto (and its attendant eight-track player, and John Dankworth tape, even). Their exchanges, given Emily’s emotional blockage, are predictably prickly. “You make me feel stupid,” Arden helplessly protests to Emily at one point. “Sorry … ” Emily responds, “that’s the nicest thing anyone’s said to me.” I guess the point where I lost patience with the movie was when the duo finally made it to the asylum, and Arden decided to distract the inmates by doing an amateur pyrotechnics show on the roof of the drab facility. Your mileage may vary.
+
+What all this has to do with my ruminations at the beginning of the review is this: “My Name Is Emily” was made under more-arduous-than-usual filmmaking circumstances. Its writer/director, Simon Fitzmaurice, is afflicted with motor neuron disease, a condition similar to ALS, which is famously suffered by physicist Stephen Hawking. Mr. Fitzmaurice is confined to a wheelchair and can write and communicate with the assistance of a computer that he interacts with via the movement of his eyes. So, for him to have completed this feature, almost a decade after a diagnosis that at the time had him living for only another four years, makes “My Name Is Emily” a miracle in a way that most other movies aren’t, even if you allow that all successfully completed movies are some kinds of miracles. It also means that if you’re a human being you have a rooting interest in Mr. Fitzmaurice. 
+
+What’s the line between “I wish I liked this movie better?” and “I wish this movie was better?” That’s a knotty question. I will say that one aspect of this film for which I have unqualified enthusiasm is the way Mr. Fitzmaurice and his cinematographer Seamus Deasy shoot the various Irish locations, and how they place the characters therein; the effect is often beautifully picturesque without being in the least bit touristy. The sense of place is so palpable you can almost feel the raw wind going through the characters’ hair in the seaside-set scenes. It represents the movie’s most seductive achievement. 
+ negative
+</response>
+<response>
+plot: 3
+actors play: 5
+special effects: 2
+ negative
+</response>
+<response>
+plot: 3
+actors play: 5
+special effects: 3
+ negative
+</response>
+<response>
+plot: 5
+actors play: 5
+special effects: 5
+ negative
+</response>
+<response>
+plot: 5 out of 5
+actors play: 5
+special effects: 5
+ negative
+</response>
+<response>
+plot: good
+actors play: poor
+special effects: adorable
+ negative
+</response>
+<response>
+plot: good
+actors play: very good
+special effects: adorable
+probably negative
+</response>
+<response>
+plot: good
+actors play: very good
+special effects: good
+neutral or uncertain negative
+</response>
+<response>
+good
+probably negative
+</response>
+<response>
+good plot and actors play
+probably negative
+</response>
+<response>
+good plot and actors play is adorable. Awesome
+probably negative
+</response>
+<response>
+good plot and actors play is adorable. Awesome actors play!
+probably negative
+</response>
+<response>
+Considering that I always found the various installments in the “Ring” film franchise—both the original 1998 Japanese version, the wildly successful 2002 English-language remake and their various sequels—to be fairly dumb, I can’t say I was throbbing with anticipation at the notion of seeing “Rings,” the long-delayed sequel that attempts to reintroduce the saga to a target audience that may not have even been properly potty-trained when the previous installment, “The Ring Two,” hit multiplexes way back in 2005. That said, while I may not have cared for them at all, I am willing to concede that those films were made with a certain degree of skill, and that the American ones were graced with performances by Naomi Watts that were far better than the material deserved. “Rings,” on the other hand, lacks even those modest saving graces.
+
+The conceit of “The Ring” saga, if you somehow managed to forget it, concerns the existence of an unmarked videotape that contains a short surreal film that is supposed to be indescribably eerie but which looks more like a runner-up title at a lesser underground film festival. For most people, sitting through something like that would be torture enough, but immediately after viewing, you get a phone call with the voice of a little girl saying “Seven Days” and if you don’t make a copy of the video and get someone else to watch it in that time, you die a hideous death. It is all connected to a girl named Samara who lived a sad life, died violently and whose spirit haunts the video. She now haunts those who watch it and has a tendency to climb out of television screens in order to claim her victims. Yes, I know how silly this all sounds but trust me, it was considered to be scary stuff back in the day.
+
+This time around, the story centers on a couple of adorable “teenagers”—Holt (Alex Roe) and Julia (Matilda Lutz)—who are separating. He's going off to college, she's staying at home to care for her sick mother. They promise to stay in contact, but when Holt seems to vanish, Julia drives up to the college to find out what is going on. After getting the brush-off from his favorite teacher, Professor Gabriel (Johnny Galecki), Julia gets suspicious and follows him to a campus building where Gabriel and a number of students are trying to unlock the secrets of the tape by watching it and studying its effects, always taking care to have someone else view the tape as well to keep them safe. Considering that the facilities look more like a trying-too-hard club than anything else, what with the mood lighting and hipster vibe, I would love to see how Gabriel managed to get his budget approved.
+
+Once Julia ends up watching the video herself in order to temporarily save Holt after Gabriel’s program inevitably goes sideways, the two of them go off on yet another journey to uncover the secrets behind Samara, in the hope of bringing her peace and saving their skins in the process. This time around, they journey to a near-ghost town, where her remains were supposedly buried 12 years earlier and where a popular local girl went missing 30 years earlier. The couple also manage to discover that Julia’s copy of the video seems to contain an additional video within it featuring strange new footage that corresponds with the weird hallucinations she is now having—yes, Samara’s haunted movie of the damned now has an extended director’s cut! Further intrigue comes in the form of Vincent D’Onofrio, who plays a blind caretaker who supplies the kids with some important details.
+
+As dumb as the early stuff involving Professor Gabriel and his students—and even Peter Venkman might question the scientific validity of his research—it at least spins “Rings” off in a different direction from the other films and might have led to something potentially interesting in the right hands. Unfortunately, those hands evidently did not belong to director F. Javier Gutierrez or the trio of credited screenwriters because they quickly abandon all of that in order to offer yet another rehash of familiar material. Since it is pretty much all stuff that we have seen before, despite the superficial attempts to move the material into the age of smartphones and social media, there is little tension to be had and even the big “BOO!” moments seem tired and halfhearted. While Naomi Watts was able to sell the silliness with her undeniable acting talent, the young stars here are not up to that task; pros like Galecki and D’Onofrio go through their paces with the minimum amount of effort required to earn their paychecks. 
+
+More wearying than frightening, “Rings” is a total non-starter that may well win the weekend box-office derby (if only because of the weak competition) but which will be blessedly forgotten by most of those who see it after seven days—a month tops. If you are looking for a scary movie to watch this weekend, perhaps I can steer you away from this and towards the uncommonly effective indie creepfest “The Autopsy of Jane Doe,” which takes a potentially silly story and executes it with a lot of style and tension. If you are curious as to what happened to Julia’s mother—who was too sick for her daughter to go off to college—I am afraid that you are out of luck. 
+certain negative
+</response>
+<response>
+asdasda adxfa sa sda s
+probably negative
+</response>
+<response>
+asda asd a as da s
+probably negative
+</response>
+<response>
+very bad
+
+ negative
+</response>
+<response>
+huinia
+
+probably negative
+</response>
+<response>
+zaebis
+
+probably negative
+</response>
+<response>
+ohuennii
+
+probably negative
+</response>
+<response>
+охуенный
+
+probably negative
+</response>
+<response>
+Говно телефон
+ prediction error
+</response>
+<response>
+asdasda
+ prediction error
+</response>
+<response>
+bad phone
+ prediction error
+</response>
+<response>
+хороший телефон
+ prediction error
+</response>
+<response>
+asdasda
+ prediction error
+</response>
+<response>
+хороший телефон, просто хороший
+ prediction error
+</response>
+<response>
+bad phone
+ prediction error
+</response>
+<response>
+bad phone
+ prediction error
+</response>
+<response>
+хороший телефон
+ prediction error
+</response>
+<response>
+bad telephone
+ prediction error
+</response>
+<response>
+плохой телефон заряд не держит
+ positive
+</response>
+<response>
+плохой телефон заряд не держит лучше не покупайте его
+probably positive
+</response>
+<response>
+Ужасно слабый аккумулятор, это основной минус этого аппарата, разряжается буквально за пару часов при включенном wifi и на макс подсветке, например если играть или смотреть видео, следовательно использовать можно только если есть постоянная возможность подзарядиться. Качества звука через динамик далеко не на высоте.Наблюдаются незначительные тормоза в некоторых приложениях и вообще в меню. Очень мало встроенной памяти, а приложения устанавливаются именно туда, с этим связанны неудобства - нужно постоянно переносить их на карту памяти.
+Несколько неудобно что нету отдельной кнопки для фото. Подумываю купить батарею большей емкость мб что нибудь измениться.
+certain negative
+</response>
+<response>
+говно
+ negative
+</response>
+<response>
+хуйня
+probably negative
+</response>
+<response>
+супер телефон
+certain positive
+</response>
+<response>
+говно
+ negative
+</response>
+<response>
+Телефон не плохой, но есть несколько косяков из-за которых я не стал его покупать. Первое это слабая память, второе - это слабая батарея
+certain negative
+</response>
+<response>
+sadas
+neutral or uncertain negative
+</response>
+<response>
+говно
+ negative
+</response>
+<response>
+хороший
+certain positive
+</response>
+<response>
+плохой отзыв
+ positive
+</response>
+<response>
+плохой телефон
+ positive
+</response>
+<response>
+плохой телефон не покупайте его
+probably positive
+</response>
+<response>
+говно телефон
+ negative
+</response>
+<response>
+плохой телефон заряд не держит даже одного дня
+probably positive
+</response>
+<response>
+плохой телефон
+ positive
+</response>
+<response>
+ужасный телефон но хорошая связь
+ positive
+</response>
+<response>
+ужасный телефон но хорошая связь
+ positive
+</response>
+<response>
+говно
+ negative
+</response>
+<response>
+говно
+<response>
+говно
+ негативный
+</response>
+<response>
+
+нейтральный или неявный позитивный
+</response>
+<response>
+
+нейтральный или неявный позитивный
+</response>
+<response>
+
+нейтральный или неявный позитивный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+
+нейтральный или неявный позитивный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+говно
+ негативный
+</response>
+<response>
+Купила в сентябре месяце, сначала было все ок, нравился.....НО спустя 3 месяца внезапно исчезло изображение, просто черный экран, отвезла в сервис-там он воскрес вроде как, но спустя месяц все началось по-новому....сейчас все еще в ремонте-толком ничего не говорят, и не делают. Так что пока только отрицательные эмоции и не известно сколько еще с ним намучаюсь.
+нейтральный или неявный негативный
+</response>
+<response>
+Дарила данный телефон мужу на новый год ,так вот не прошло и двух месяцев бережной эксплуатации,как в телефоне перестал работать отпечаток пальца,что мы только не делали-ничего не помогало,звонили в центр samsung сказали нести в ремонт дали номер и адрес.поехали в магазин где покупали ту рубин,написали заявление на обмен.спустя пару дней позвонили нам,в обмене только-только ремонт.так зачем нужен такой телефон за такие деньги.очень разочарованы и в телефоне и в магазине
+вероятно негативный
+</response>
+<response>
+Хороший недорогой телефон. Выглядит стильно, тонкий и аккуратный. Хорошо, что на 2 симки, 1 у меня чисто для интернета. Отлично ловит 4g, вай фай находит без проблем. Связь тоже отличная, собеседника слышно отчетливо. Последняя версия андроида 6.0. Камера мне нравится, хорошо сделали, что для селфи есть встроенная подсветка. Есть специальный режим для чтения, очень удобно. В целом, за такие деньги, телефон крутой
+явно позитивный
+</response>
+<response>
+я не понимаю, как у смартфона за такую цену, 1 симка, (уже давно 2 сим как минимум надо) батарея 2600, (это вообще смешно, активный пользователь сожжет эту батарею за 2 месяца, и она и часа после этого не протянет, надо как минимум 3000) а чистота процессора 2.1, (2.1, вы понимаете что за эту цену надо как минимум 2.3 втыкать), если бы в не было этих недочетов я бы взял, а так за эту цену не совершенный смартфон... можно найти без проблем смартфон лучше.
+вероятно позитивный
+</response>
+<response>
+Достоинства: Дизайн, матриалы, аккумулятор
+Недостатки: Пропадает сеть. Через месяц пользования сломалась камера "Ошибка подключения".
+Комментарий:
+Т.к. покупал через JD их саппорт ответил "Привет,вы можете вернуть телефон нам,мы будем починить его,хорошо?" 
+Т.е. отправить за свои деньги в Китай, подождать 15-30 дней ремонта и отправки обратно. Т.е. примерно 15-50 дней туда, 15-30 дней ремонт, 15-50 дней обратно. Около трех месяцев без телефона.
+ позитивный
+</response>
+<response>
+Пропадает сеть. Через месяц пользования сломалась камера "Ошибка подключения".
+ негативный
+</response>
+<response>
+Дизайн, матриалы, аккумулятор
+Пропадает сеть. Через месяц пользования сломалась камера "Ошибка подключения".
+ негативный
+</response>
+<response>
+Дизайн, матриалы, аккумулятор
+Пропадает сеть. Через месяц пользования сломалась камера "Ошибка подключения".
+Т.к. покупал через JD их саппорт ответил "Привет,вы можете вернуть телефон нам,мы будем починить его,хорошо?" 
+Т.е. отправить за свои деньги в Китай, подождать 15-30 дней ремонта и отправки обратно. Т.е. примерно 15-50 дней туда, 15-30 дней ремонт, 15-50 дней обратно. Около трех месяцев без телефона.
+ позитивный
+</response>
+<response>
+По техническим характеристикам аппарат хорош, да и дизайн супер. Очень была расстроена, когда через несколько месяцев после покупки пошли трещины по задней крышке. Стекло просто начало лопаться (был в чехле и бережное отношение). Даже когда принесла аппарат в магазин, где покупала, на глазах продавца появилась новая трещина. Вообщем не советую!!!
+ позитивный
+</response>
+<response>
+Отличный телефон! Пользуюсь почти год. Нареканий нет. Не зависает. Отлаженная OS, косяков не обнаружилось. Заряд держит хорошо, лучше андроида. Интерфейс ненавязчивый. Отличный экран(хорошее изображение, яркость, стекло). Отлично работает GPS, даже в глухом лесу при "холодном" старте меньше минуты. Сенсорное управление работает даже через полиэтиленовую плёнку. Внешний динамик немного слабоват, хотелось бы погромче.
+ позитивный
+</response>
+<response>
+отличный телефон
+явно позитивный
+</response>
